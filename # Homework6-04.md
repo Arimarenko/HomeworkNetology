@@ -115,5 +115,6 @@ prometheus:
 
 **Выполните Действия:**
 1. Поместите метрику в Pushgateway
+![Снимок экрана 2025-10-17 131044](https://github.com/user-attachments/assets/977128a8-396e-47da-9941-bb40dbf2c687)
 
-   
+
